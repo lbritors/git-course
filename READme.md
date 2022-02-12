@@ -4,3 +4,6 @@ Repositório teste para testar como o git funciona
 git init
 git status
 git add + <file name>
+git log
+git shortlog
+git diff (mostra antes de ser modificado)
