@@ -7,3 +7,5 @@ git add + <file name>
 git log
 git shortlog
 git diff (mostra antes de ser modificado)
+
+Adicionando mais alguma coisa para testar modificações enviadas para o repositório remoto
